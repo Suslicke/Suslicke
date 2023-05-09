@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="227"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/suslicke-team-211916271/">
+    <a href="https://www.linkedin.com/in/andrei-pustovoi-211916271//">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/Suslicke">
